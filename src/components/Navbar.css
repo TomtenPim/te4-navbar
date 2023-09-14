@@ -1,0 +1,23 @@
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1rem;
+    font-size: 1.4rem;
+    list-style: none;
+
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: rgb(83, 0, 139);
+    gap: 1rem;
+    font-size: 1.4rem;
+
+}
+
+a {
+    color: #e9e9e9;
+}
